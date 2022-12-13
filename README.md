@@ -14,3 +14,28 @@ Use `pip install <module>` on the following modules (documentation linked):
 
 For stockfish especially, read the documentation on how to set it up. 
 Your stockfish location needs to be edited within the `final_project.py` file to run it properly
+
+### Files By Type
+
+  #### PDF
+  
+  - `Senior_Project_Proposal.pdf`: an initial proposal submitted for the project.
+  - `SeniorProjectQ1Report.pdf`: a report about the work done on the project during the first quarter (spring 2022).
+  - `Initial_Middlegame_Issues.pdf`: a file describing the issues I ran into with the [sunfish](https://github.com/thomasahle/sunfish) genetic algorithm implementation attempt.
+
+  ### py
+  - `final_project.py`: the working final project implementation of a chess AI.
+  - `original_pst.py` and `pst.py`: files that contain the genetic algorithm implementation for finding optimal piece square talbes. These were built upon the [Andoma](https://github.com/healeycodes/andoma) chess engine.
+  - `analysis.py`: a program that tests n number of times whether or not a position or m pieces reduces to a solved endgame. The csv files are the results.
+  
+  ### csv
+  These files are all the results of the `analysis.py` program above
+  
+  ### txt
+  These files are the best solution obtained from the `pst.py` program above and the solution fit value.
+
+### Running the program
+
+```bash
+py <filename.py>
+```
