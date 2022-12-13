@@ -36,6 +36,11 @@ Your stockfish location needs to be edited within the `final_project.py` file to
 
 ### Running the program
 
+Run 
+
 ```bash
 py <filename.py>
 ```
+
+For any of the files: `final_project.py`, `analysis.py` (This one will provide usage instructions), `pst.py`
+
