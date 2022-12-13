@@ -33,7 +33,7 @@ Your stockfish location needs to be edited within the `final_project.py` file to
    > These files are all the results of the `analysis.py` program above
   
    > ### txt
-   > These files are the best solution obtained from the `pst.py` program above and the solution fit value.
+   > These files are the `best solution` obtained from the `pst.py` program above and the `solution fit` value.
    
 ---
 
