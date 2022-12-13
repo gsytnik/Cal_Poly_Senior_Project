@@ -34,6 +34,7 @@ Your stockfish location needs to be edited within the `final_project.py` file to
   
    > ### txt
    > These files are the `best solution PSTs` obtained from the `pst.py` program above and the `solution fit` value.
+   > The order of the PSTs is Pawn, Knight, Bishop, Rook, Queen, King, and they are for the white pieces in the `final_project.py` implementation
    
 ---
 
