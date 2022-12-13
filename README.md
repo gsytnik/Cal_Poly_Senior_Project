@@ -30,7 +30,7 @@ Your stockfish location needs to be edited within the `final_project.py` file to
    > - `analysis.py`: a program that tests n number of times whether or not a position or m pieces reduces to a solved endgame. The csv files are the results.  
    
    > ### csv
-   > These files are all the results of the `analysis.py` program above
+   > These files are all the results of the `analysis.py` program above for the respective number of pieces.
   
    > ### txt
    > These files are the `best solution PSTs` obtained from the `pst.py` program above and the `solution fit` value.
