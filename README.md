@@ -42,5 +42,5 @@ Run
 py <filename.py>
 ```
 
-For any of the files: `final_project.py`, `analysis.py` (This one will provide usage instructions), `pst.py`
+For any of the files: `final_project.py`, `pst.py`, `analysis.py` (This one will provide usage instructions)
 
