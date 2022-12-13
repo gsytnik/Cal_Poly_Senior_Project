@@ -28,7 +28,7 @@ Your stockfish location needs to be edited within the `final_project.py` file to
    > ### py
    > - `final_project.py`: the working final project implementation of a chess AI.
    > - `original_pst.py` and `pst.py`: files that contain the genetic algorithm implementation for finding optimal piece square talbes. These were built upon the [Andoma](https://github.com/healeycodes/andoma) chess engine.
-   > - `analysis.py`: a program that tests n number of times whether or not a position or m pieces reduces to a solved endgame. The csv files are the results.  
+   > - `analysis.py`: a program that tests n number of times whether or not a position of m pieces reduces to a solved endgame. The csv files are the results.  
    
    > ### csv
    > These files are all the results of the `analysis.py` program above for the respective number of pieces.
