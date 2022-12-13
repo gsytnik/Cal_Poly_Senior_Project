@@ -17,30 +17,30 @@ Your stockfish location needs to be edited within the `final_project.py` file to
 
 ### Files By Type
 
-  #### PDF
+   ### PDF
   
-  - `Senior_Project_Proposal.pdf`: an initial proposal submitted for the project.
-  - `SeniorProjectQ1Report.pdf`: a report about the work done on the project during the first quarter (spring 2022).
-  - `Initial_Middlegame_Issues.pdf`: a file describing the issues I ran into with the [sunfish](https://github.com/thomasahle/sunfish) genetic algorithm implementation attempt.
+   - `Senior_Project_Proposal.pdf`: an initial proposal submitted for the project.
+   - `SeniorProjectQ1Report.pdf`: a report about the work done on the project during the first quarter (spring 2022).
+   - `Initial_Middlegame_Issues.pdf`: a file describing the issues I ran into with the [sunfish](https://github.com/thomasahle/sunfish) genetic algorithm implementation attempt.
 
-  ### py
-  - `final_project.py`: the working final project implementation of a chess AI.
-  - `original_pst.py` and `pst.py`: files that contain the genetic algorithm implementation for finding optimal piece square talbes. These were built upon the [Andoma](https://github.com/healeycodes/andoma) chess engine.
-  - `analysis.py`: a program that tests n number of times whether or not a position or m pieces reduces to a solved endgame. The csv files are the results.
+   ### py
+   - `final_project.py`: the working final project implementation of a chess AI.
+   - `original_pst.py` and `pst.py`: files that contain the genetic algorithm implementation for finding optimal piece square talbes. These were built upon the [Andoma](https://github.com/healeycodes/andoma) chess engine.
+   - `analysis.py`: a program that tests n number of times whether or not a position or m pieces reduces to a solved endgame. The csv files are the results.
+   
+   ### csv
+   These files are all the results of the `analysis.py` program above
   
-  ### csv
-  These files are all the results of the `analysis.py` program above
-  
-  ### txt
-  These files are the best solution obtained from the `pst.py` program above and the solution fit value.
+   ### txt
+   These files are the best solution obtained from the `pst.py` program above and the solution fit value.
 
 ### Running the program
 
-Run 
+   Run 
 
-```bash
-py <filename.py>
-```
+   ```bash
+   py <filename.py>
+   ```
 
-For any of the files: `final_project.py`, `pst.py`, `analysis.py` (This one will provide usage instructions)
+   For any of the files: `final_project.py`, `pst.py`, `analysis.py` (This one will provide usage instructions)
 
