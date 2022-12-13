@@ -232,7 +232,7 @@ def get_player_move(board, movelist):
     move = input(f'\n{board}\nAI\'s move: {movelist[-1] if movelist else None}\nEnter move: ')
     match = re.match('([a-h][1-8])'*2, move)
     while not match or chess.Move.from_uci(move) not in board.legal_moves:
-        move = input(f'Please enter a legal move: ')
+        move = input(f'Please enter a legal move: ').lower()
         match = re.match('([a-h][1-8])'*2, move)
     return move
 
