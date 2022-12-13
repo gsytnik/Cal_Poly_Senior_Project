@@ -20,7 +20,6 @@ Your stockfish location needs to be edited within the `final_project.py` file to
 ### Files By Type
 
   > ### PDF
-  
   > - `Senior_Project_Proposal.pdf`: an initial proposal submitted for the project.
   > - `SeniorProjectQ1Report.pdf`: a report about the work done on the project during the first quarter (spring 2022).
   > - `Initial_Middlegame_Issues.pdf`: a file describing the issues I ran into with the [sunfish](https://github.com/thomasahle/sunfish) genetic algorithm implementation attempt.  
