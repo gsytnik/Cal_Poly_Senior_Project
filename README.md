@@ -22,7 +22,8 @@ Your stockfish location needs to be edited within the `final_project.py` file to
   > ### PDF
   > - `Senior_Project_Proposal.pdf`: an initial proposal submitted for the project.
   > - `SeniorProjectQ1Report.pdf`: a report about the work done on the project during the first quarter (spring 2022).
-  > - `Initial_Middlegame_Issues.pdf`: a file describing the issues I ran into with the [sunfish](https://github.com/thomasahle/sunfish) genetic algorithm implementation attempt.  
+  > - `Initial_Middlegame_Issues.pdf`: a file describing the issues I ran into with the [sunfish](https://github.com/thomasahle/sunfish) genetic algorithm implementation attempt.
+  > - `Gennady_Sytnik_Foaad_Khosmood_Senior_Project_Report.pdf`: the final report for the project.
 
    > ### py
    > - `final_project.py`: the working final project implementation of a chess AI.
